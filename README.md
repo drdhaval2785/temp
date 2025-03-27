@@ -20,7 +20,7 @@ First column is ID of the meaning of AP90 (from ap1.tsv)
 Second last column is the ID of meaning of MW (from mw1.tsv). 
 The last column is the confidence code. D and E are to be taken with a pinch of salt. A, B, C, F, G may be more or less OK.
 
-## combined/step12/step12_cxr6_log.html
+## combined/step14/xaa.html to xnc.html
 
 A visual representation of the same data along with definitions from AP90 and MW for visual comparision.
 
